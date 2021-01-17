@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051730284914",
+    "project_id": "lottery-app-ffe43",
+    "storage_bucket": "lottery-app-ffe43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051730284914:android:d73aea645b4a2826c20deb",
+        "android_client_info": {
+          "package_name": "com.lottery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051730284914-405648ao3bsnip4vcugvo2kn0djiarft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNe-kAe6141_3xSclTi43CQ3Y_t-WkU1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051730284914-405648ao3bsnip4vcugvo2kn0djiarft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
