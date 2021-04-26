@@ -51,7 +51,7 @@ const Home = (props) => {
         style={styles.buttonsStyles}
         onPress={props.onClickFbLogin}>
         <Image
-          source={require('../../images/fLogo.png')}
+          source={require('../../images/fLogo.jpg')}
           style={styles.buttonLogo}
         />
         <Text style={styles.buttonText}>Login with Google</Text>

@@ -40,9 +40,9 @@ const profile = (props) => {
         </Text>
       </View>
       <View style={{justifyContent: 'center', alignItems: 'center'}}>
-        <TouchableOpacity style={styles.ButtonStyle}>
+        {/* <TouchableOpacity style={styles.ButtonStyle}>
           <Text style={styles.ButtonTextStyle}>Account Details</Text>
-        </TouchableOpacity>
+        </TouchableOpacity> */}
         <TouchableOpacity style={styles.ButtonStyle}>
           <Text style={styles.ButtonTextStyle}>About Lottery</Text>
         </TouchableOpacity>

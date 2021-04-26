@@ -1,4 +1,4 @@
-export const baseURL = 'https://lottery-server3174.herokuapp.com/';
+export const baseURL = 'http://192.168.43.104:5000/' //'https://lottery-server3174.herokuapp.com/';
 
 export const getApi = async (apiName, params) => {
   let response = await fetch(baseURL + apiName + '?' + params, {

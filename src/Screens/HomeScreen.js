@@ -5,6 +5,8 @@ import {postApi} from '../FetchAPI/FetchAPI';
 import {login} from '../FetchAPI/Api';
 import {ToastAndroid} from 'react-native';
 
+import {GoogleSignin,GoogleSigninButton} from '@react-native-community/google-signin'
+
 class LoginScreen extends PureComponent {
   static navigationOptions = {
     headerShown: false,

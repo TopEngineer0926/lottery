@@ -31,3 +31,6 @@ target 'Lottery-tvOS' do
     # Pods for testing
   end
 end
+
+pod 'Stripe', '~> 19.0.1'
+pod 'tipsi-stripe', :path => '../node_modules/tipsi-stripe'
